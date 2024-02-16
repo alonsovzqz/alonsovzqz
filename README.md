@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Alonso Vazquez and is a pleasure to virtually meet you, and thanks for passing by to my Github profile. Here are a couple of things to help you know me better:
 
-- 🔭 I’m currently work as a React  developer at [Distillery](https://distillery.com/)
+- 🔭 I’m currently work as a React  developer
 - 🤓 I'm re-learning about Algorithms & Data Structures at [Udacity](https://udacity.com/)
 - 🤝 I’m looking to collaborate on some open source projects 😃
 - 🤔 I’m looking for help with build a personal portfolio
